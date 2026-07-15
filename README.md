@@ -20,6 +20,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pihudokania/Leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pihudokania/Leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
