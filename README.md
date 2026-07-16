@@ -8,6 +8,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pihudokania/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pihudokania/Leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +39,17 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pihudokania/Leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
