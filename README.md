@@ -8,6 +8,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pihudokania/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pihudokania/Leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pihudokania/Leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
