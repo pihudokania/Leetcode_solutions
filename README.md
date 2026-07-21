@@ -8,6 +8,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pihudokania/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/pihudokania/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pihudokania/Leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -32,6 +33,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
