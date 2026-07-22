@@ -11,6 +11,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/pihudokania/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pihudokania/Leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pihudokania/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pihudokania/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -34,6 +35,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pihudokania/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
