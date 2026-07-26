@@ -14,6 +14,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pihudokania/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pihudokania/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pihudokania/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -30,6 +31,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pihudokania/Leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pihudokania/Leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -63,6 +65,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pihudokania/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pihudokania/Leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
