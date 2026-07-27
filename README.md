@@ -86,6 +86,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/pihudokania/Leetcode_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pihudokania/Leetcode_solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
