@@ -9,6 +9,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0001-two-sum](https://github.com/pihudokania/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/pihudokania/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/pihudokania/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pihudokania/Leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pihudokania/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -32,6 +33,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/pihudokania/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0509-fibonacci-number](https://github.com/pihudokania/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pihudokania/Leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
