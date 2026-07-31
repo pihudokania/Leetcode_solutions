@@ -15,6 +15,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pihudokania/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pihudokania/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pihudokania/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pihudokania/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -71,6 +72,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pihudokania/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pihudokania/Leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -85,6 +87,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pihudokania/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +105,12 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pihudokania/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
