@@ -25,6 +25,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pihudokania/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pihudokania/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pihudokania/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
@@ -95,6 +96,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pihudokania/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/pihudokania/Leetcode_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pihudokania/Leetcode_solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
@@ -113,4 +115,8 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pihudokania/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
