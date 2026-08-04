@@ -21,6 +21,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pihudokania/Leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pihudokania/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pihudokania/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3731-find-missing-elements](https://github.com/pihudokania/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0003-longest-substring-without-repeating-characters](https://github.com/pihudokania/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pihudokania/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/pihudokania/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [3731-find-missing-elements](https://github.com/pihudokania/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ My solutions to Leetcode problems,documenting my DSA practice and problem solvin
 | [0215-kth-largest-element-in-an-array](https://github.com/pihudokania/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihudokania/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pihudokania/Leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/pihudokania/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihudokania/Leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
